@@ -12,7 +12,7 @@ body {
 
 .BannerBgImage {
     height: 100vh;
-    background: url(/Images-1/Home.jpg);
+    background: url(./Images-1/Home.jpg);
     background-size: cover;
     background-position: center;
     position: relative;
